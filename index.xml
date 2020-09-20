@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>42</title>
+    <link>https://RafaelSdeSouza.github.io/</link>
+    <description>Recent content on 42</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Rafael S de Souza</copyright><atom:link href="https://RafaelSdeSouza.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://RafaelSdeSouza.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://RafaelSdeSouza.github.io/</guid>
+      <description>42 Life, the Universe and Everything
+Time Series  Forecasting: Principles and Practice:R  Spatial Models  Spatial Diversity Celestial maps Spatial-Time smoothing Geocomputation:R Map Projections:R  ggplot2 extra  gganimate GGHIGHLIGHT  Neural Networks  Architectures fastAI  Papers Galactic  Detailed 3D structure of Orion A in dust with Gaia DR2 Kinematics of T Tauri Stars Close to the Sun from the Gaia DR2 Catalogue Star-Gas Surface Density Correlations in Twelve Nearby Molecular Clouds I: Data Collection and Star-Sampled Analysis THE POWER SPECTRUM OF THE MILKY WAY  JAGS  Bayesian Statistics with BUGS/JAGS: Applications to Binay Stars and Asteroseismology  </description>
+    </item>
+    
+  </channel>
+</rss>
